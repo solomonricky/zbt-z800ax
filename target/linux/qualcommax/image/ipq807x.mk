@@ -305,7 +305,7 @@ define Device/zbt_z800ax
         PAGESIZE := 2048
         DEVICE_DTS_CONFIG := config@hk09
         SOC := ipq8072
-        DEVICE_PACKAGES := ipq-wifi-dynalink_dl-wrx36
+        DEVICE_PACKAGES := ipq-wifi-zbt_z800ax
 endef
 TARGET_DEVICES += zbt_z800ax
 
